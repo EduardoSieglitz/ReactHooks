@@ -1,0 +1,26 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+  overflow: hidden;
+  background: rgb(246, 246, 246);
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 90vh;
+}
+
+.atividade{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20vw;
+  height: 5vh;
+}
+
+.atividade a{
+  color: black;
+  font-size: 3vw;
+}
