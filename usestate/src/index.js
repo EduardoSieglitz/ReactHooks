@@ -1,4 +1,3 @@
-import React from 'react';
 import ReactDOM from 'react-dom/client';
 import Home from './pages/home/Home';
 import Atividade1 from './pages/atividades/atividade1';

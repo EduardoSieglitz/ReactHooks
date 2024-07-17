@@ -8,6 +8,9 @@ function Web() {
             <div className={styles.container}>
                 <input placeholder="Digite seu nome de usuario aqui" onChange={(evento)=>{setNome(evento.target.value)}} />
                 <h2>Nome de Usuario: {nome}</h2>
+                <div className={styles.organizar}>
+                <div><a href="/">Home</a></div>
+            </div>
             </div>
         </>
     )
