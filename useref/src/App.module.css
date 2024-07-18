@@ -1,0 +1,93 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(247, 247, 247);
+  overflow: hidden;
+}
+
+body {
+  width: 100vw;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 40vw;
+  height: 90vh;
+}
+
+.left img {
+  width: 35vw;
+  height: 35vh;
+}
+
+.control {
+  width: 20vw;
+  height: 50vh;
+  border-radius: 5px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+}
+
+form {
+  width: 20vw;
+  height: 50vh;
+  border-radius: 5px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+}
+
+.right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 60vw;
+  height: 90vh;
+}
+
+.container {
+  display: flex;
+  width: 100vw;
+  height: 90vh;
+}
+
+.form input {
+  padding: 3px;
+  width: 10vw;
+  height: 2.3vh;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.form {
+  width: 20vw;
+  height: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.controlDados {
+  width: 20vw;
+  height: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form button {
+  padding: 3px;
+  width: 10vw;
+  height: 3.5vh;
+  border: 1px solid black;
+  border-radius: 5px;
+}
