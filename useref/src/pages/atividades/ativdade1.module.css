@@ -67,6 +67,19 @@ form {
   border-radius: 5px;
 }
 
+.atividade{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20vw;
+  height: 5vh;
+}
+
+.atividade a{
+  color: black;
+  font-size: 1.5vw;
+}
+
 .form {
   width: 20vw;
   height: 10vh;

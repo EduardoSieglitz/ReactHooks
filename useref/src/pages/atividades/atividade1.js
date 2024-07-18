@@ -1,4 +1,4 @@
-import styles from "./App.module.css";
+import styles from "./ativdade1.module.css";
 import { useEffect, useState } from "react";
 import { useRef } from "react";
 
@@ -68,6 +68,7 @@ export default function Home() {
               <button>Cadastrar</button>
             </div>
           </form>
+          <div className={styles.atividade}><a href="/">Home</a></div>
         </div>
       </div>
     </body>
