@@ -7,3 +7,4 @@ Compreender os fundamentos do React: Entender como a biblioteca funciona, inclui
 Explorar o ecossistema: Experimentar com bibliotecas e ferramentas relacionadas ao React, como React Router, Redux, Context API, e Hooks.
 Criar projetos práticos: Desenvolver pequenos projetos e exercícios para aplicar o conhecimento adquirido e construir uma base sólida em React.
 Manter uma documentação clara: Registrar o progresso e criar anotações detalhadas sobre conceitos, desafios enfrentados, e soluções encontradas durante o estudo.
+No futura pretendo criar varios projetos usando também um servidor para o envio de requisições, fazendo autenticação, proteção de paginas entre outros projetos.
